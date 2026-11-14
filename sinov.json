@@ -1,17 +1,18 @@
 {
  "package": "uz.madrasa.ilova",
- "version": "0.6.1-sinov.2",
- "versionCode": 60102,
+ "version": "0.6.1-sinov.3",
+ "versionCode": 60103,
  "kanal": "sinov",
  "date": "2026-11-14",
  "notes": [
-  "Nahv kitoblarining bosh sahifasi yangilandi: kitob haqida, bitta yo'riqnoma kartochkasi va 4 ustunli mavzular",
-  "planshetda «Orqaga» bosilganda kitob o'rniga ilova ochilib qolish xatosi tuzatildi"
+  "Yangi Nahv 1: har dars to'rt qadam (O'qing, Qoida, Tamrin, Yakun) va qadamlar orasida bitta tugma bilan o'tish",
+  "har darsga sodda tildagi sharh dars, ikkalasini yonma-yon ochish mumkin",
+  "Nahv 1 ko'rinishi Nahv 2 bilan bir xil"
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.6.1-sinov.2",
-  "versionCode": 60102,
+  "versiya": "0.6.1-sinov.3",
+  "versionCode": 60103,
   "min_native": 1,
   "guruhlar": {
    "kitob-aqida": {
@@ -81,28 +82,28 @@
     "hajm": 108194
    },
    "kitob-nahv-1": {
-    "sha256": "e677e1fff8e7d9ed3838d55d3319c796bf2362dd0f6a3861ffa0e9b200b12a38",
-    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.1-sinov.2/kitob-nahv-1-e677e1fff8e7.zip",
-    "zip_sha256": "cb7b8df6b4e78b1a6ec228efe724cdb216e413b9b30f82811f417164df75ae58",
-    "hajm": 420216
+    "sha256": "444aab914618e1292982f23041cf1cee4b75648850d35ad3b52b73cd45348cba",
+    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.1-sinov.3/kitob-nahv-1-444aab914618.zip",
+    "zip_sha256": "a0422bbb1ee7e622104203fc7c3bf0b36769807148f4573a0b19af37d4262d55",
+    "hajm": 222558
    },
    "kitob-nahv-2": {
-    "sha256": "531e6e7da42929243bfcdfe5e5f5535d87c86ba833c1d8e100d345ab20839b16",
-    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.1-sinov.2/kitob-nahv-2-531e6e7da429.zip",
-    "zip_sha256": "eebfb0e7edf28e57ff22740bfe58b4d9936a8ace08512fde655419a4ce8cd8cf",
-    "hajm": 195408
+    "sha256": "59644668f2e1a73ea88d157f6accc582a42bf10e5f86344f33b8262c90dd0e03",
+    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.1-sinov.3/kitob-nahv-2-59644668f2e1.zip",
+    "zip_sha256": "d2e92ffb993f1403aa1feccc7326a4790d0c40b839e84a61c7dd0b546cceac54",
+    "hajm": 196131
    },
    "kitob-nahv-3": {
-    "sha256": "ed68564065abc386172089b333e9f8963a80b325b6409210a21c125a4aab3120",
-    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.1-sinov.2/kitob-nahv-3-ed68564065ab.zip",
-    "zip_sha256": "70b74a1f0e751985aac04bc4ee717155b766e6592a97d6a52502ffe82b487acc",
-    "hajm": 180695
+    "sha256": "374c8c94aa82c0d542a9ed23e4edafc6d56dad10fc70db7bdd06514b606adad1",
+    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.1-sinov.3/kitob-nahv-3-374c8c94aa82.zip",
+    "zip_sha256": "54351b7e77f26554983bdabc02996224af4189c75f40f9369d294611a3764cab",
+    "hajm": 191199
    },
    "kitob-nahv-4": {
-    "sha256": "9eced69e5dff8a1d628f3b95650b4ffae2654f4eff98a30fa1d8695f7e49da62",
-    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.1-sinov.2/kitob-nahv-4-9eced69e5dff.zip",
-    "zip_sha256": "9e33ed1ddbeba2ce8c2d19901ce1e06c96796753fd402f7d28efbe28eb786c42",
-    "hajm": 267364
+    "sha256": "2cc136f6aa1b2f7802d9b6687cd82cc5790dafb5b4dc01caae5a2a00e1f338b3",
+    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.1-sinov.3/kitob-nahv-4-2cc136f6aa1b.zip",
+    "zip_sha256": "34b76a9c58565338c7a46f1576dfbcb215fcee4f78294b4ec02d731148c55aa0",
+    "hajm": 277868
    },
    "kitob-qisas": {
     "sha256": "d886325e900bcb7f967ee64a937145c94ddbe5d51b21d936cce18bdae78adc6f",
@@ -183,9 +184,9 @@
     "hajm": 1157694
    },
    "qobiq": {
-    "sha256": "137c422e1328f3094a696e56c503ead6974b066dc545db26856b634d4e86a7a7",
-    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.1-sinov.2/qobiq-137c422e1328.zip",
-    "zip_sha256": "5ee0ea9f690385ab94f23ca6f032041940a6f1cab8ed1da6a734dbcde2e13e8e",
+    "sha256": "35715ca82592d54452bb157cdcb08ed2089eb971923d724d1a0422149e73616b",
+    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.1-sinov.3/qobiq-35715ca82592.zip",
+    "zip_sha256": "8af6514bd53ff3363ca4c5505fcafd2a7a043c09db47f504cd640ec1e4a76e54",
     "hajm": 64631
    },
    "shrift": {
