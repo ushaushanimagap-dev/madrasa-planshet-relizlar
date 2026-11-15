@@ -1,19 +1,16 @@
 {
  "package": "uz.madrasa.ilova",
- "version": "0.6.2-sinov.1",
- "versionCode": 60201,
- "kanal": "sinov",
+ "version": "0.6.2",
+ "versionCode": 60299,
+ "kanal": "asosiy",
  "date": "2026-11-15",
  "notes": [
-  "Mabda' tarkibi: bo'limda «Orqaga» endi mundarijaga qaytaradi",
-  "matnni bosib turganda nusxalash oynasi chiqmaydi",
-  "kitob ichidagi «Dizayn» va «Rejim» tugmalari yashirildi — ranglar ilova Sozlamalaridan",
-  "Shifohiyya: arabcha sarlavhalar Amiri shriftida, tirnoq va son o'z joyida, arabcha qatorlar orasi kengroq"
+  "Barqaror versiya 0.6.2: Shifohiyya va Mabda' texnik tuzatishlari (matn aralashuvi, palitra, tanlashni o'chirish)"
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.6.2-sinov.1",
-  "versionCode": 60201,
+  "versiya": "0.6.2",
+  "versionCode": 60299,
   "min_native": 1,
   "guruhlar": {
    "kitob-aqida": {
@@ -185,10 +182,10 @@
     "hajm": 1157694
    },
    "qobiq": {
-    "sha256": "aaf73939f0e59dc37bf9c33e8df38e987adc02817e09dc44a3a659c69c6c62fd",
-    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.2-sinov.1/qobiq-aaf73939f0e5.zip",
-    "zip_sha256": "bb5a31a7c1ac1f3ace3a1a0d2a56ca2aeeb5f69f7abaf7ccdc1b190e89eb7570",
-    "hajm": 65112
+    "sha256": "e7e035a98fb9266a1e40ae11d10e05c172ff39ca768dc2db401e1e141867b377",
+    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.2/qobiq-e7e035a98fb9.zip",
+    "zip_sha256": "fea390da5aba13def9610bda78dbf68d1a4fa48454d3a3da66109c0e30f335e8",
+    "hajm": 65107
    },
    "shrift": {
     "sha256": "d77390d014d523e3059a37cdf90001f6dc6a96c108ab6cded723acc619083951",
