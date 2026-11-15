@@ -1,18 +1,20 @@
 {
  "package": "uz.madrasa.ilova",
- "version": "0.6.3-sinov.1",
- "versionCode": 60301,
+ "version": "0.6.3-sinov.2",
+ "versionCode": 60302,
  "kanal": "sinov",
  "date": "2026-11-15",
  "notes": [
-  "Sinov 0.6.3-sinov.1: Shifohiyya dars sahifasi yangi maketda — dars ochilganda faqat kitob matni, mashqlar matn ustidagi yopishqoq tablarda (Og'zaki mashq, Gap yig'ish, Teskari tarjima, So'z qutisi, Test)",
-  "51–100-darslarda lug'atdan So'z qutisi va Test",
-  "kitob matni o'zgarmagan"
+  "Sinov 0.6.3-sinov.2: Shifohiyya — «Kitob matni» birinchi tab (boshqa tab tanlansa faqat o'sha mazmun)",
+  "Sarf ilovasi bo'limi olib tashlandi",
+  "Lug'at faqat qidiruv (1–100-darslar, dars raqami bilan)",
+  "gap tarjimasi kattaroq",
+  "o'zbekcha imlo tuzatishlari (arabcha matn o'zgarmagan)"
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.6.3-sinov.1",
-  "versionCode": 60301,
+  "versiya": "0.6.3-sinov.2",
+  "versionCode": 60302,
   "min_native": 1,
   "guruhlar": {
    "kitob-aqida": {
@@ -130,10 +132,10 @@
     "hajm": 233289
    },
    "kitob-shifohiyya": {
-    "sha256": "2a3ecb8ce4d53de8ddf871c39a9fd7e11074766d6bc82ad6ce3ba58a58b8ab16",
-    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.3-sinov.1/kitob-shifohiyya-2a3ecb8ce4d5.zip",
-    "zip_sha256": "cb4559a356728f3e6f7522fbc70f29e0d5cfb8e74279f70583cccab5935f2534",
-    "hajm": 685528
+    "sha256": "f23b47692f78005cc69a5cf8d19695305ed1df9421f1143dde1a478b1f4f4c55",
+    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.3-sinov.2/kitob-shifohiyya-f23b47692f78.zip",
+    "zip_sha256": "8bf1d7f9c42c74462832fc20835bcfa531c259e4361c4fed4ffcb6bc27d8e8d5",
+    "hajm": 685526
    },
    "kitob-tahoviya": {
     "sha256": "4551bc9cfdcdd6367d111efd9bcd0fecf1af25ddba7a87930da07d5e9eed65f4",
@@ -184,10 +186,10 @@
     "hajm": 1157694
    },
    "qobiq": {
-    "sha256": "90a41197ea744054a47d62da1d130e4419acc55e9bdf1e17dd86634f5432ef91",
-    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.3-sinov.1/qobiq-90a41197ea74.zip",
-    "zip_sha256": "40384324b018be3270a724e402f02300c2256bd9fe8c08d2d1b1031e2ada61ea",
-    "hajm": 65112
+    "sha256": "c8856c16ae52e9207083b5242c8096f0a23f97a3cfced5c93ca2740957007d3d",
+    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.3-sinov.2/qobiq-c8856c16ae52.zip",
+    "zip_sha256": "41dbec17b6b90160ef1bbe20115e40226153703cf354706968721e219baff4ab",
+    "hajm": 65110
    },
    "shrift": {
     "sha256": "d77390d014d523e3059a37cdf90001f6dc6a96c108ab6cded723acc619083951",
