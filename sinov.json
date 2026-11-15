@@ -1,17 +1,18 @@
 {
  "package": "uz.madrasa.ilova",
- "version": "0.6.1-sinov.8",
- "versionCode": 60108,
- "kanal": "sinov",
- "date": "2026-11-14",
+ "version": "0.6.1",
+ "versionCode": 60199,
+ "kanal": "asosiy",
+ "date": "2026-11-15",
  "notes": [
-  "Nahv 3 va Nahv 4 ga jamlovchi darslar qo'shildi: «Asosiy dars ⇄ Jamlovchi dars» va «Ikkalasini birga ko'rsatish»",
-  "qoidalar, tashjir va jadvallar, «Eslab qoling» va «O'zingizni tekshiring»"
+  "Barqaror versiya 0.6.1: Nahv 1–4 yangi qobiqda (Kitob boshi, sharh va jamlovchi darslar, o'tish tuynugi)",
+  "ichki yangilagich",
+  "qo'lyozma fon"
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.6.1-sinov.8",
-  "versionCode": 60108,
+  "versiya": "0.6.1",
+  "versionCode": 60199,
   "min_native": 1,
   "guruhlar": {
    "kitob-aqida": {
@@ -183,10 +184,10 @@
     "hajm": 1157694
    },
    "qobiq": {
-    "sha256": "00737a5179873ac72f45817db9c9125785863f1d21eb75b0a69b81e53e62bd3c",
-    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.1-sinov.8/qobiq-00737a517987.zip",
-    "zip_sha256": "0a2eb7af80a344232908687e54b28202c7e7a79e090d4c8f0c922c8507b30395",
-    "hajm": 64631
+    "sha256": "6d8df95aae5e14bb8b873e6a3af1ebeb2f4b24912a14a6184bb646eb60f7e485",
+    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.1/qobiq-6d8df95aae5e.zip",
+    "zip_sha256": "d6788d273482956b91a89f849495a12823a675879d8b7f10207808296e126236",
+    "hajm": 64624
    },
    "shrift": {
     "sha256": "d77390d014d523e3059a37cdf90001f6dc6a96c108ab6cded723acc619083951",
