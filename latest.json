@@ -1,18 +1,16 @@
 {
  "package": "uz.madrasa.ilova",
- "version": "0.6.1",
- "versionCode": 60199,
+ "version": "0.6.2",
+ "versionCode": 60299,
  "kanal": "asosiy",
  "date": "2026-11-15",
  "notes": [
-  "Barqaror versiya 0.6.1: Nahv 1–4 yangi qobiqda (Kitob boshi, sharh va jamlovchi darslar, o'tish tuynugi)",
-  "ichki yangilagich",
-  "qo'lyozma fon"
+  "Barqaror versiya 0.6.2: Shifohiyya va Mabda' texnik tuzatishlari (matn aralashuvi, palitra, tanlashni o'chirish)"
  ],
  "native": 1,
  "veb": {
-  "versiya": "0.6.1",
-  "versionCode": 60199,
+  "versiya": "0.6.2",
+  "versionCode": 60299,
   "min_native": 1,
   "guruhlar": {
    "kitob-aqida": {
@@ -52,10 +50,10 @@
     "hajm": 220171
    },
    "kitob-mabda-tarkib": {
-    "sha256": "5fe58f604ccd608a0b77f950282211a4601883f0875334efbc6432ecd78507dd",
-    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.1-sinov.1/kitob-mabda-tarkib-5fe58f604ccd.zip",
-    "zip_sha256": "ec086f355d2373796b4cb98ad79379107f457600b1abe5984360e931481dfdf8",
-    "hajm": 167643
+    "sha256": "e10c5e01d8a8aa3d435db5aeb819f6888daeeadeb70ea36d894266f9e3b4570a",
+    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.2-sinov.1/kitob-mabda-tarkib-e10c5e01d8a8.zip",
+    "zip_sha256": "b8716a293d18fbc9faf15078525a2649e67f6d6c925d2477eef8b36b48611032",
+    "hajm": 167772
    },
    "kitob-manor": {
     "sha256": "d48e5de195ef40a90fcec6471ffb4142e9586ed088a68756cb9ea8aba1a8f185",
@@ -130,10 +128,10 @@
     "hajm": 233289
    },
    "kitob-shifohiyya": {
-    "sha256": "7cef3743795e370852b0eecc37d8280ebb1ab1e8d169e2e20bc7cb76205832db",
-    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.1-sinov.1/kitob-shifohiyya-7cef3743795e.zip",
-    "zip_sha256": "389ffa63753d272d19c93973cf1b3ac7add514e9fdbc51ddaaa1ecc97ffea0da",
-    "hajm": 776643
+    "sha256": "1588ced5b1a52619f5f485ca94c697533c8467641e1b7a2c19901669fbc29fb8",
+    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.2-sinov.1/kitob-shifohiyya-1588ced5b1a5.zip",
+    "zip_sha256": "22872f5e1e0396caf3df4b5ee799038b845236fc4072098b86d0be4b8220411d",
+    "hajm": 685706
    },
    "kitob-tahoviya": {
     "sha256": "4551bc9cfdcdd6367d111efd9bcd0fecf1af25ddba7a87930da07d5e9eed65f4",
@@ -184,10 +182,10 @@
     "hajm": 1157694
    },
    "qobiq": {
-    "sha256": "6d8df95aae5e14bb8b873e6a3af1ebeb2f4b24912a14a6184bb646eb60f7e485",
-    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.1/qobiq-6d8df95aae5e.zip",
-    "zip_sha256": "d6788d273482956b91a89f849495a12823a675879d8b7f10207808296e126236",
-    "hajm": 64624
+    "sha256": "e7e035a98fb9266a1e40ae11d10e05c172ff39ca768dc2db401e1e141867b377",
+    "url": "https://github.com/ushaushanimagap-dev/madrasa-planshet-relizlar/releases/download/veb-0.6.2/qobiq-e7e035a98fb9.zip",
+    "zip_sha256": "fea390da5aba13def9610bda78dbf68d1a4fa48454d3a3da66109c0e30f335e8",
+    "hajm": 65107
    },
    "shrift": {
     "sha256": "d77390d014d523e3059a37cdf90001f6dc6a96c108ab6cded723acc619083951",
